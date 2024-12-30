@@ -14,8 +14,9 @@ This project involves a Credit Card Financial Dashboard built using Microsoft Po
 - Cross platform
 
 ## Project Insights 
-
+![Screenshot 2024-12-30 182320](https://github.com/user-attachments/assets/3088c862-337a-4d9f-a46d-850f88d17e33)
 ## Technologies Used
+
 
 **Microsoft Power BI:** For data visualization and dashboard development.
 
