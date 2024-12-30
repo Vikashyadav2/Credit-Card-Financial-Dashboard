@@ -46,9 +46,12 @@ This project involves a Credit Card Financial Dashboard built using Microsoft Po
 ## Screenshots
 
 Include screenshots of the dashboard showing key visualizations and insights.
-- Credit Card Tansaction Dashboard :
+### Credit Card Transaction Dashboard :
+ 
 ![Screenshot 2024-12-30 194420](https://github.com/user-attachments/assets/1bffbc53-6762-4770-891f-35255d6dae76)
-- Credit Card Customer Dashboard :
+
+### Credit Card Customer Dashboard :
+  
 ![Screenshot 2024-12-30 194445](https://github.com/user-attachments/assets/2a217ef9-8b40-4762-b769-82ef134609e4)
 
 
